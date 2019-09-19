@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sakariya Aynashe is a graduate student of MDS at University of British Columbia, Vancouver Campus.
+Sakariya Aynashe is a graduate student of MDS at University of British Columbia, Vancouver Campus. He will complete his program by the middle of 2020. 
 
 ### More Information
 
