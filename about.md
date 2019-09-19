@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sakariya Aynashe is a graduate student of MDS at University of British Columbia, Vancouver Campus.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like working around tech environment, while my other hobbies include hiking, football, chess and travelling.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sakariya.aynashe@alumni.ubc.ca](mailto:email@domain.com)
