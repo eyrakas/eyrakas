@@ -3,11 +3,7 @@ layout: post
 title: Welcome to Sakariya's Data Science Blog
 ---
 
-
-
-
-
-
+"Version Control with GIT"
 
 
 Have you ever tried to write a long report on your computer, and after making many changes, you realized that you have deleted important information and got things messed up? Or if you are a programmer, was there a time that you altered some lines in your code and you started getting more errors and your program wouldn't run anymore? In these critical situations, you probably ended up pressing Ctr + Z hoping to revert back to your previous correct version of your work. Even if you were the most careful person, you may start making a backup copy of your file before starting to edit. With this, you end up having a stack of filenames for the same document as shown below. You understand that this is a total mess. But the problem you are having is called Version Vontrol, and the solution is what Git is all about.
@@ -43,7 +39,6 @@ Git commit -m --> saves all the changes in the Final folder in your local comput
 Git push --> uploads your local folder to online repository, e.g. Dropbox (but would be GitHub in this case).
 Git pull -- > downloads content from the remote online repository.
 Congratulations for reading up to this point. Get started with using Git as your version control system for your future projects, I believe you will definitely appreciate its great benefits.
-
 
 
 Below is my github repo, you may follow for regular updates on latest trends on the Data Science.
