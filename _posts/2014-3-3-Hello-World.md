@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcome to Sakariya's Data Science Blog
-permalink: /git_version_control/
 ---
 
 "Version Control with GIT"
